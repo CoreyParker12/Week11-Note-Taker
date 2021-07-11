@@ -29,5 +29,5 @@
 My GitHub: [CoreyParker12](https://github.com/CoreyParker12)  
 Email: coreyparker012@gmail.com
 
-Deplayed Application: [Heroku Deployment](https://note-taker-coreyparker.herokuapp.com/)
+Deployed Application: [Heroku Deployment](https://note-taker-coreyparker.herokuapp.com/)
 
