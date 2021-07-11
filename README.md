@@ -5,6 +5,8 @@
 ## Project Description
 
   This applciation allows the user to take, save, and delete notes using an express server.
+  
+  Live App: [Live App](https://note-taker-coreyparker.herokuapp.com/)
 
 ## Table of Contents
 
@@ -13,9 +15,6 @@
   * [License](#license)
   * [Questions](#questions)
 
-## Installation Instructions
-
-  To install, 
 
 ## Usage
 
@@ -29,4 +28,5 @@
 
 My GitHub: [CoreyParker12](https://github.com/CoreyParker12)  
 Email: coreyparker012@gmail.com
+Deplayed Application: [Heroku Deployment](https://note-taker-coreyparker.herokuapp.com/)
 
