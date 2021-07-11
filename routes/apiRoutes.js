@@ -23,6 +23,8 @@ module.exports = (app) => {
     res.json(true);
   });
 
+  // Deletes the note
+  // Talks to index.js and follows the /api/notes/:id path identified there
   app.delete('/api/notes/:id', (req,res) => {
     
     // Grabs the id
