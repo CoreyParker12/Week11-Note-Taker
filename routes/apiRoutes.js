@@ -13,7 +13,7 @@ module.exports = (app) => {
   // Posts the note to the application
   app.post('/api/notes', (req,res) => {
 
-    note = req.body;
+    let note = req.body;
 
     // Adds a unique id to the end of the object
     note.id = uuidv4();
